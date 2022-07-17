@@ -1,2 +1,5 @@
+https://davidphon.github.io/github.io/link/index.html
+https://davidphon.github.io/github.io/categories/index.html
+https://davidphon.github.io/github.io/tags/index.html
 https://davidphon.github.io/github.io/2022/07/16/hello-world/
 https://davidphon.github.io/github.io
