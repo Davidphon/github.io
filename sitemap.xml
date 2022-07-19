@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidphon.github.io/github.io/2022/07/19/2022-7-19-%E9%A2%84%E5%9F%B9%E8%AE%AD%E5%A4%8D%E7%9B%98/</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidphon.github.io/github.io/2022/07/17/%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98/</loc>
     
     <lastmod>2022-07-17</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://davidphon.github.io/github.io</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,7 +75,7 @@
   
   <url>
     <loc>https://davidphon.github.io/github.io/tags/daily-replay/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

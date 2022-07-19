@@ -6,7 +6,7 @@
   <link href="https://davidphon.github.io/github.io/atom.xml" rel="self"/>
   
   <link href="https://davidphon.github.io/github.io/"/>
-  <updated>2022-07-17T12:22:05.831Z</updated>
+  <updated>2022-07-19T15:25:21.469Z</updated>
   <id>https://davidphon.github.io/github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022/7/19 预培训复盘</title>
+    <link href="https://davidphon.github.io/github.io/2022/07/19/2022-7-19-%E9%A2%84%E5%9F%B9%E8%AE%AD%E5%A4%8D%E7%9B%98/"/>
+    <id>https://davidphon.github.io/github.io/2022/07/19/2022-7-19-%E9%A2%84%E5%9F%B9%E8%AE%AD%E5%A4%8D%E7%9B%98/</id>
+    <published>2022-07-19T15:06:35.000Z</published>
+    <updated>2022-07-19T15:25:21.469Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="预配训复盘"><a href="#预配训复盘" class="headerlink" title="预配训复盘"></a>预配训复盘</h1><p>昨天部门老板们组织校招生开会，为魔鬼训练营做一个预配训，会议开到比较晚的时间，所以回家就没有写复盘。</p><p>昨天的安排是今天详设，明天开发，后天测试上线，做一个简单的demo。我负责的这一块是抢单pk，不同于其他的同学，pk的逻辑是比较复杂的，而且操作都是在redis里面进行，属于不熟悉的领域。经过一天的奋斗，晚上还是写好了，这里有几点需要注意：</p><h2 id="放平心态"><a href="#放平心态" class="headerlink" title="放平心态"></a>放平心态</h2><p>这是个倒排期项目，时间紧任务重，而且自己还不熟悉业务，非常的紧张，其实放平心态就好，你既然无法改变他，就应该去适应它。</p><h2 id="注重交流"><a href="#注重交流" class="headerlink" title="注重交流"></a>注重交流</h2><p>项目是分多个模块大家协同完成的，需要前期充分沟通交流，确定好边界和接口。</p><h2 id="不懂及时向他人求助"><a href="#不懂及时向他人求助" class="headerlink" title="不懂及时向他人求助"></a>不懂及时向他人求助</h2><p>有任何问题，十分钟自己想不明白，就应该去找懂的人去请教。大佬们的一句点拨，或是几分钟的教导，可以让你少走非常多的弯路。同时，这也体现出好人缘的重要性：</p><h2 id="要与人为善，路上遇见主动打招呼，交流要用敬称，人前人后都要一致"><a href="#要与人为善，路上遇见主动打招呼，交流要用敬称，人前人后都要一致" class="headerlink" title="要与人为善，路上遇见主动打招呼，交流要用敬称，人前人后都要一致"></a>要与人为善，路上遇见主动打招呼，交流要用敬称，人前人后都要一致</h2><p>别人为什么愿意帮助你？平时多烧香，遇事才能抱佛脚。</p><h2 id="不要在背后说别人坏话"><a href="#不要在背后说别人坏话" class="headerlink" title="不要在背后说别人坏话"></a>不要在背后说别人坏话</h2><p>这样只会让别人看轻你，而且做人要谨慎。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;预配训复盘&quot;&gt;&lt;a href=&quot;#预配训复盘&quot; class=&quot;headerlink&quot; title=&quot;预配训复盘&quot;&gt;&lt;/a&gt;预配训复盘&lt;/h1&gt;&lt;p&gt;昨天部门老板们组织校招生开会，为魔鬼训练营做一个预配训，会议开到比较晚的时间，所以回家就没有写复盘。&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="daily replay" scheme="https://davidphon.github.io/github.io/tags/daily-replay/"/>
+    
+  </entry>
   
   <entry>
     <title>每日复盘</title>
